@@ -2,7 +2,7 @@
   "name": "ダンスのふりつけを作ろう！",
   "short_name": "ふりつけガイド",
   "description": "曲に合わせて自分だけのダンスを作るステップガイド",
-  "start_url": "./dance-guide.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#FFFBF0",
   "theme_color": "#FF8C42",
